@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @guilhermeFerreiram
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
 
-<!---
-guilhermeFerreiram/guilhermeFerreiram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### :star: Seja bem-vindo! Me chamo <a href="https://guilhermeFerreiram.github.io/">Guilherme Ferreira</a> :star:
+
+Criando soluções para melhoria de processos 🚀 <br>
+Motivado a superar todos os limites!
+
+<a href="https://www.linkedin.com/in/guilherme-f-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
+<a href="mailto:guil.ferreiram@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+### :dart: Linguagens e Skills:
+
+Formação em .NET developer
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+<img height="155rem" alt="guilhermeFerreiram's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guilhermeFerreiram&show_icons=true&theme=radical"/>
+<img height="155rem" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeFerreiram&layout=compact&theme=radical"/>
+
+<!-- STATUS (LIST) -->
+### Meu Status
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** 
+
+:rocket: Objetivo: Resolver problemas :heart:
+
+</div>
+ 
