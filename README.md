@@ -15,15 +15,13 @@ Back-End developer
 
 <p> 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Banco_de_dados-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/cloud-lightblue?style=for-the-badge"/>
   <br>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/API-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mensageria-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
